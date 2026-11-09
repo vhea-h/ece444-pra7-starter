@@ -16,4 +16,4 @@ def record(value, history):
 
 
 def broken_total():
-    return missing_total
+    return "I like to eat yummy potatoes."
