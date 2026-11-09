@@ -13,3 +13,7 @@ def add(a, b):
 def record(value, history):
     history.append(value)
     return history
+
+
+def broken_total():
+    return "I like to eat yummy potatoes."
